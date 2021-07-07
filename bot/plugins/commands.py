@@ -90,7 +90,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developers', url='https://t.me/DeepakV111'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/SeriesZone101/Adv-Filter-Szone')
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/DeepakV111')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/DeepakV111')
     ],[
