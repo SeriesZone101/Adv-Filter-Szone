@@ -10,7 +10,7 @@ class Translation(object):
 You Can't Add Me To Your Group!
 
 For More Details Click Help Button Below..
-@serieszOne3
+
 </i>"""    
     
     HELP_TEXT = """
