@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-[Joey](https://t.me/DeepakV111)
+@DeepakV111
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/DeepakV111">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://t.me/sourcecodeveno">Click Me</a></i>
 """
